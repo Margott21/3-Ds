@@ -6,4 +6,4 @@ Turma: 3°DS
 
 repositório:  
    ```bash
-   git clone https://github.com/seuusuario/nomedoprojeto.git
+  [ git clone https://github.com/seuusuario/nomedoprojeto.git](https://github.com/Margott21/3-Ds)
