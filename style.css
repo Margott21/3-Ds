@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(69, 233, 255, 0.986);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+background: #020024;
+background: linear-gradient(328deg,rgba(2, 0, 36, 1) 0%, rgba(33, 27, 87, 1) 8%, rgba(28, 21, 89, 1) 16%, rgba(30, 25, 120, 1) 28%, rgba(26, 26, 105, 1) 35%, rgba(16, 34, 125, 1) 45%, rgba(22, 46, 117, 1) 54%, rgba(31, 61, 84, 1) 66%, rgba(7, 69, 89, 1) 78%, rgba(12, 104, 125, 1) 89%, rgba(24, 157, 184, 1) 100%);
+
+
+}
+
+h1,h2,h3,h4,h5{
+
+    text-align: center;
+    color: #340d53;
+
+}
+
+p {
+
+    text-align: center;
+    color: rgb(87, 7, 7);
+
+}
+
+
+.meu-botão {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: brown;
+    color: indigo;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s;
+
+}
+
+.meu-botão.meu-botão:houver {
+    background-color: #340d53;
+}
